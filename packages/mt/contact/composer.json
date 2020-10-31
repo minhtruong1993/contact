@@ -4,12 +4,12 @@
     "license": "license",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "minhtruong",
+            "email": "http.mt.html@gmail.com",
+            "homepage": "contact"
         }
     ],
-    "homepage": "https://github.com/mt/contact",
+    "homepage": "https://github.com/minhtruong1993/contact",
     "keywords": ["Laravel", "Contact"],
     "require": {
         "illuminate/support": "~7|~8"
